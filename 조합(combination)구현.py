@@ -27,7 +27,6 @@ def comb(population,num):
 
 	return ans
 
-
 arr = [1, 2, 3, 4]
 print(get_comb(arr, 2))
 print(comb(arr, 2))
